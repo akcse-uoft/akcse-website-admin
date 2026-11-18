@@ -1,4 +1,4 @@
-# AKCSE Research CMS
+# AKCSE Website Admin
 
 Admin panel for writing and publishing research articles on [akcseuoft.ca](https://akcseuoft.ca).
 Shares the Supabase database with [akcse-website](https://github.com/yujinkim0206/akcse-website).
