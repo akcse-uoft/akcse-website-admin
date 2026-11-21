@@ -40,5 +40,6 @@ npm run dev          # http://localhost:3000
 
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 - [docs/project-context.md](docs/project-context.md)
+- [docs/architecture.md](docs/architecture.md)
 - [docs/article-data.md](docs/article-data.md)
 - [docs/deployment.md](docs/deployment.md)
